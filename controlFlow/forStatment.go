@@ -2,6 +2,7 @@ package main
 
 import "fmt"
 
+// https://golang.org/doc/effective_go.html#for
 func main() {
 	// for statment with a single condition
 	x := 1

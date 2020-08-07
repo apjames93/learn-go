@@ -2,6 +2,7 @@ package main
 
 import "fmt"
 
+// https://golang.org/doc/effective_go.html#if
 func main() {
 	x := 39
 

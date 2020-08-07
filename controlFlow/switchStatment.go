@@ -2,6 +2,7 @@ package main
 
 import "fmt"
 
+// https://golang.org/doc/effective_go.html#switch
 func main() {
 	switch {
 	case false:
